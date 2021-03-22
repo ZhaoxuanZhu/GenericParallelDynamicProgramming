@@ -1,0 +1,15 @@
+# IDE
+.idea/*
+*/.idea/*
+
+# Python
+__pycache__/
+*.pyc
+.tox/*
+
+# ipynb
+.ipynb_*
+
+# build
+build/*
+cmake-build-debug/*
